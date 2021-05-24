@@ -489,7 +489,7 @@ body {
 #portfolio .port-info {
  position: absolute;
  width: 100%;
- bottom: 0px;
+ bottom: -30px;
  background: #50d8af;
  padding: 10px 30px;
  transition: all 0.4s;
