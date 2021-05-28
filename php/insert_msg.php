@@ -14,6 +14,8 @@ $sql = "INSERT INTO re_message(RE_name,RE_email,RE_subject,RE_msg,RE_reg) VALUES
 
 mysqli_query($db_conn,$sql);
 
+
+
 echo "
  <script>
  alert('메세지가 입력되었습니다.');
